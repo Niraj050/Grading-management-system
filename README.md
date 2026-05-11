@@ -16,6 +16,4 @@ This project is a console-based C program that simulates the NEB grading system.
 - Arrays
 - GPA logic
 
-## How to Run
-gcc neb_grading.c -o neb
-./neb
+
